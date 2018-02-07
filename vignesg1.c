@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-int a,b,c,i,j,d;
+int a,b,i,j,d;
 scanf("%d%d",&a,&b);
 for(i=1;i<=a;i++)
 {
